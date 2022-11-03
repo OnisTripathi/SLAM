@@ -1,2 +1,2 @@
-# SLAM-
+# SLAM
 senior design project
